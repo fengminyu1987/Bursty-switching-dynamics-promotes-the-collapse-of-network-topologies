@@ -1,0 +1,35 @@
+This undirected network contains interactions between 28 Grévy's zebras (Equus grevyi) in Kenya. A node represents a zebra and an edge between two zebras shows that there was an interaction between them during the study.
+
+These are the 48 contiguous states and the District of Columbia of the United States of America (the USA). They include all states except the states of Alaska and Hawaii, which are not connected by land with the other states, and include the District of Columbia (DC). An edge denotes that two states share a border. The US states in the configuration given by this dataset exist since February 14, 1912, when Arizona was admitted as the 48th state, and is current as of 2014. The states of Alaska and Hawaii were admitted as the 49th and 50th states in 1959, but are not contiguous with the other states, and are not reflected in this dataset.
+
+This network contains "American football games between Division IA colleges during regular season Fall 2000." Results are not included in the dataset, and neither is home/away information.
+
+This is a directed social network of bottlenose dolphins. The nodes are the bottlenose dolphins (genus Tursiops) of a bottlenose dolphin community living off Doubtful Sound, a fjord in New Zealand (spelled fiord in New Zealand). An edge indicates a frequent association. The dolphins were observed between 1994 and 2001.
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+@MISC{konect:2017,
+    title = {Network Dataset -- {KONECT}},
+    month = oct,
+    year = {2017},
+    url = {http://konect.cc/networks/}
+}
+
+
+  @inproceedings{nr-aaai15,
+      title = {The Network Data Repository with Interactive Graph Analytics and Visualization},
+      author={Ryan A. Rossi and Nesreen K. Ahmed},
+      booktitle = {Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence},
+      url={http://networkrepository.com},
+      year={2015}
+  }
